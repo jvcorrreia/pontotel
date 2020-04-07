@@ -1,0 +1,26 @@
+-----------------------------------
+ LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+  LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+   LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+    LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+     LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+---------------------------------
+
+--->Bem, não sabia que o exercício deveria necessariamente ser com python. Como não tenho experiências profundas
+com frameworks de python, pois na minha empresa trabalho com php e node no backend, resolvi fazer de uma forma diferente.
+
+-->EXECUTE O INDEX.PY, ele vai gerar as páginas html com as funções que estão consumindo os serviçõs da API.
+Espero que tenha gostado da minha ideia e agradeço pela oportunidade, esse desafio me gerou muitos aprendizados.
+
+-->Não foquei muito em front (apesar da vaga ser para fullstack), mas caso queira uma demonstração dos conhecimentos
+de front pode me mandar um e-mail de volta. jvcorreiacontato@gmail.com
+
+-->O exercicio do sql era apenas para criar o banco? deixei os comandos que usei para criar na 'comandosbanco.sql' e no 'postgres.py' está
+a conexão feita com o banco
+-----------------------------------
+ LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+  LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+   LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+    LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+     LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO - LEIA A DOCUMENTAÇÃO -
+---------------------------------
