@@ -12,8 +12,10 @@ com frameworks de python, pois na minha empresa trabalho com php e node no backe
 -->EXECUTE O INDEX.PY, ele vai gerar as páginas html com as funções que estão consumindo os serviçõs da API.
 Espero que tenha gostado da minha ideia e agradeço pela oportunidade, esse desafio me gerou muitos aprendizados.
 
--->Não foquei muito em front (apesar da vaga ser para fullstack), mas caso queira uma demonstração dos conhecimentos
-de front pode me mandar um e-mail de volta. jvcorreiacontato@gmail.com
+-->Na execução do index, ele vai gerar as páginas com os dados mais atualizados no momento, caso queira novos dados
+é só executar o index de novo que ele vai deletar as paginas e gerar novas mais atualizadas
+
+-->Para o front dei apenas uma estilizada com bootstrap
 
 -->O exercicio do sql era apenas para criar o banco? deixei os comandos que usei para criar na 'comandosbanco.sql' e no 'postgres.py' está
 a conexão feita com o banco
